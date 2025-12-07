@@ -7,11 +7,11 @@
 </head>
 <body>
     <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nitin+Yadav;Frontend+Developer+from+India;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vishal+Kumar;Frontend+Developer+from+India;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitin-yadav65&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vishal-Kumar&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - 🚀 Passionate about **Frontend Development & UI/UX**
 - 💡 Love creating **clean, modern & beautiful websites**
 - 🎯 Goal: Become a **Full Stack Developer**
-- 📬 Email: **nitinyadav27122006@gmail.com**
+- 📬 Email: **vishal99877655433211**
 - ⚡ Fun fact: *I debug more than I code 😆*
 
 ---
