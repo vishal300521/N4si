@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body>
     <h1 align="center">
@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal-Kumar&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vishal-Kumar&label=Profile%20Views&color=red&style=flat" />
 </p>
 
 ---
@@ -28,12 +28,12 @@
 
 # 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/nitin yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/vishal-kumar-750aa2383/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
-  <a href="https://instagram.com/fit__nitin_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <a href="https://x.com/Vishal300521" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Fun web apps like games, tools, animations & utilities.
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-yadav65&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal300521&theme=tokyonight"/>
 </p>
 
 # 🎨 Fun Zone
